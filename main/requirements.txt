@@ -1,0 +1,5 @@
+findspark
+pyspark
+hashlib
+gdown
+levenshtein
